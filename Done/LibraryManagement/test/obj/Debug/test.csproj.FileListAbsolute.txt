@@ -1,0 +1,36 @@
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\test.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\test.pdb
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\LibraryManagement.exe
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\LibraryManagement.pdb
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\LibraryManagement.exe.config
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.csproj.CopyComplete
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.dll
+D:\Học tập\Tài Liệu học tập đại học- UIT\học kỳ 1 (2023-2324)\Công nghệ .net\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.pdb
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\test.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\test.pdb
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\LibraryManagement.exe
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\LibraryManagement.pdb
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\LibraryManagement.exe.config
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.dll
+C:\Users\khoik\OneDrive\Desktop\SE310_.Net_NUnit\Done\LibraryManagement\test\obj\Debug\test.pdb
